@@ -27,8 +27,8 @@ static const uint8_t D10 = 1;
 SH1106Brzo display(0x3c, D4, D3);
 
 // WIFI
-const char *ssid = "deny-2.4G";
-const char *password = "960902463";
+const char *ssid = "";
+const char *password = "";
 
 // NTP time server
 // const char *ntpServerName = "time.nist.gov";
